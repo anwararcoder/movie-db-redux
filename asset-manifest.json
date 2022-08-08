@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-db-redux/static/css/main.011e7ffc.css",
+    "main.js": "/movie-db-redux/static/js/main.2c46d1fb.js",
+    "static/media/logo.png": "/movie-db-redux/static/media/logo.bcd19d0db73ab35cc294.png",
+    "index.html": "/movie-db-redux/index.html",
+    "main.011e7ffc.css.map": "/movie-db-redux/static/css/main.011e7ffc.css.map",
+    "main.2c46d1fb.js.map": "/movie-db-redux/static/js/main.2c46d1fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.011e7ffc.css",
+    "static/js/main.2c46d1fb.js"
+  ]
+}
